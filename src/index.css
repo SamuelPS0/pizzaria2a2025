@@ -29,11 +29,11 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: aquamarine;
-  color: red;
+  color: green;
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 10em;
   line-height: 1.1;
 }
 
@@ -50,6 +50,7 @@ button {
 }
 button:hover {
   border-color: #646cff;
+  color: white;
 }
 button:focus,
 button:focus-visible {
