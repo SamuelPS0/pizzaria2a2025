@@ -28,13 +28,15 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: aquamarine;
-  color: green;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
-h1 {
+h3 {
   font-size: 10em;
   line-height: 1.1;
+  color: rgb(255, 255, 255);
 }
 
 button {
