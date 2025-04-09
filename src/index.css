@@ -18,7 +18,7 @@
 a {
   color: #646cff;
   font-family: "Poppins", sans-serif;
-  margin: 20em;
+  margin: 2em;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ body {
 }
 
 h3 {
-  margin: 20em;
+  margin: 2em;
   font-size: 5em;
   line-height: 1.1;
   color: rgb(255, 255, 255);
