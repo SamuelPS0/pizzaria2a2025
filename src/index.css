@@ -18,6 +18,7 @@
 a {
   color: #646cff;
   font-family: "Poppins", sans-serif;
+  margin: 20em;
 }
 
 a:hover {
@@ -25,7 +26,7 @@ a:hover {
 }
 
 body {
-  margin: 200px;
+  margin:0;
   display: flex;
   place-items: start;
   min-width: 320px;
@@ -36,6 +37,7 @@ body {
 }
 
 h3 {
+  margin: 20em;
   font-size: 5em;
   line-height: 1.1;
   color: rgb(255, 255, 255);
