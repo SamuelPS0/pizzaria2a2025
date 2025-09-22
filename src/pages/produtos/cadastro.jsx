@@ -2,7 +2,7 @@ import './produtos.css'
 
 const CadastroProduto = () => {
     return(
-        <div className="Produtos">
+        <div className="CadastroProduto">
             <h3>Cadastro de Produtos</h3>
 
             <input type="text" id="id" placeholder="0" />
